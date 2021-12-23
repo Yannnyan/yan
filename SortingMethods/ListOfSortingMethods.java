@@ -1,5 +1,5 @@
-package SortingMethods;
-import SearchingMethods.*;
+package Data_Structures.SortingMethods;
+import Data_Structures.SearchingMethods.*;
 public class ListOfSortingMethods {
 	
 	public static void MergeSort(int[] b, int start, int end) {

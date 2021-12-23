@@ -1,4 +1,4 @@
-package SearchingMethods;
+package Data_Structures.SearchingMethods;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -15,6 +15,10 @@ class testSearching {
 		assertEquals(6,ListOfSearchingMethods.BinarySearch(b, 6, 0, c.length-1));
 		assertEquals(0,ListOfSearchingMethods.BinarySearch(b, 0, 0, c.length-1));
 	}
+
+	private void assertEquals(int i, int binarySearch) {
+	}
+
 	@Test
 	void testOrdinary() {
 		int[] b = {2002,2,300,2,34,55,202,456};

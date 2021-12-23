@@ -1,4 +1,4 @@
-package SearchingMethods;
+package Data_Structures.SearchingMethods;
 
 public class ListOfSearchingMethods { // not tested + should work only for sorted
 	public static int BinarySearch(int[] a, int k, int start, int end) {

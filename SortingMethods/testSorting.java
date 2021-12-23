@@ -1,8 +1,8 @@
-package SortingMethods;
+package Data_Structures.SortingMethods;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 class testSorting {
 
